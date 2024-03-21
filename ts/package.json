@@ -2,6 +2,8 @@
   "devDependencies": {},
   "dependencies": {
     "@types/node": "^20.11.26",
+    "@types/puppeteer": "^7.0.4",
+    "puppeteer": "^22.6.0",
     "typescript": "^5.4.2"
   }
 }
